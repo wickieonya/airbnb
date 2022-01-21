@@ -15,6 +15,7 @@ class Header extends Component {
                 {/*Left */}
                 <div className="relative flex items-center h-10 cursor-pointer my-auto">
                     <Image
+                        alt="Logo image"
                         src="https://links.papareact.com/qd3"
                         layout="fill"
                         objectFit="contain"
